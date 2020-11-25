@@ -371,20 +371,20 @@ INSERT INTO  GRP6____policy_claim  VALUES ( '666215','665','0','2029-8-06','not 
 
 -- GRP6_____CLAIM_SETTLEMENT
 
-insert into grp6_____claim_settlement values('666301',60001,'2020-5-5',200000,666101,601,60000,666201);
-insert into grp6_____claim_settlement values(666302,60002,'2020-6-8',200000,666102,602,61000,666202);
-insert into grp6_____claim_settlement values(666303,60003,'2020-7-3',200000,666103,603,62000,666203);
-insert into grp6_____claim_settlement values(666304,60004,'2020-4-4',200000,666104,603,63000,666204);
-insert into grp6_____claim_settlement values(666305,60005,'2020-2-10',200000,666105,602,64000,666205);
-insert into grp6_____claim_settlement values(666306,60006,'2020-1-11',200000,666106,606,65000,666206);
-insert into grp6_____claim_settlement values(666307,60007,'2020-9-14',200000,666107,607,66000,666207);
-insert into grp6_____claim_settlement values(666308,60008,'2020-5-17',200000,666108,608,67000,666208);
-insert into grp6_____claim_settlement values(666309,60009,'2020-10-28',200000,666109,609,68000,666209);
-insert into grp6_____claim_settlement values(666310,60010,'2020-11-25',200000,666110,610,69000,666210);
-insert into grp6_____claim_settlement values(666311,60011,'2020-12-1',200000,666111,611,610000,666211);
-insert into grp6_____claim_settlement values(666312,60012,'2020-10-5',200000,666112,612,611000,666212);
-insert into grp6_____claim_settlement values(666313,600013,'2020-8-15',200000,666113,613,612000,666213);
-insert into grp6_____claim_settlement values(666314,60014,'2020-8-04',200000,666114,614,613000,666214);
-insert into grp6_____claim_settlement values(666315,60015,'2020-5-27',200000,666115,615,614000,666215);
+insert into grp6_____claim_settlement values('666301',60001,'2020-5-5',200000,2000000,601,60000,666201);
+insert into grp6_____claim_settlement values(666302,60002,'2020-6-8',200000,2000000,602,61000,666202);
+insert into grp6_____claim_settlement values(666303,60003,'2020-7-3',700000,600000,603,62000,666203);
+insert into grp6_____claim_settlement values(666304,60004,'2020-4-4',200000,100000,603,63000,666204);
+insert into grp6_____claim_settlement values(666305,60005,'2020-2-10',200000,100000,602,64000,666205);
+insert into grp6_____claim_settlement values(666306,60006,'2020-1-11',2000000,1500000,606,65000,666206);
+insert into grp6_____claim_settlement values(666307,60007,'2020-9-14',2000000,1500000,607,66000,666207);
+insert into grp6_____claim_settlement values(666308,60008,'2020-5-17',2000000,1500000,608,67000,666208);
+insert into grp6_____claim_settlement values(666309,60009,'2020-10-28',200000,1200000,609,68000,666209);
+insert into grp6_____claim_settlement values(666310,60010,'2020-11-25',2000000,1000000,610,69000,666210);
+insert into grp6_____claim_settlement values(666311,60011,'2020-12-1',2000000,1000000,611,610000,666211);
+insert into grp6_____claim_settlement values(666312,60012,'2020-10-5',200000,1200000,612,611000,666212);
+insert into grp6_____claim_settlement values(666313,600013,'2020-8-15',200000,2000000,613,612000,666213);
+insert into grp6_____claim_settlement values(666314,60014,'2020-8-04',3500000,2500000,614,613000,666214);
+insert into grp6_____claim_settlement values(666315,60015,'2020-5-27',2100000,2000000,615,614000,666215);
 
 
